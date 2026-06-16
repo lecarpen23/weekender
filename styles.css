@@ -189,6 +189,17 @@ h2.block{
 .placeholder .eyebrow{ margin:0 0 .7rem; }
 .placeholder p{ margin:0; color:var(--muted); font-size:.95rem; }
 
+.product-photo{
+  border:1px solid var(--line);
+  background:var(--paper);
+}
+.product-photo img{
+  width:100%;
+  aspect-ratio:5 / 4;
+  object-fit:cover;
+  object-position:center;
+}
+
 .values{ list-style:none; margin:2rem 0 0; padding:0; display:grid; gap:0; }
 .values li{
   display:grid;

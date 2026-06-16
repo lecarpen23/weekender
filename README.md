@@ -11,6 +11,7 @@ Static, hand-coded pre-launch site for Weekender.
 - `styles.css` — shared design system and layout styles
 - `assets/weekender-monogram.jpeg` — primary monogram used in the header and footer
 - `assets/weekender-flower.jpeg` — secondary mark reserved for future use
+- `assets/weekender-prototype-polos.png` — prototype polo placement image used on `drop.html`
 - `assets/` — owner-supplied product photography and future static assets
 
 ## TODO before launch
